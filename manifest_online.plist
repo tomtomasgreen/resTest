@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://221.238.232.136/diabetescare/ios/NNIT-Diabetes_online.ipa</string>
+					<string>http://221.238.232.136/diabetescare/ios/NNIT-Diabetes_online.jpg</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://221.238.232.136/diabetescare/ios/NNIT-Diabetes_online.ipa</string>
+					<string>http://221.238.232.136/diabetescare/ios/NNIT-Diabetes_online.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
