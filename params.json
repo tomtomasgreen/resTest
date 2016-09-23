@@ -1,0 +1,6 @@
+{
+  "name": "Restest",
+  "tagline": "",
+  "body": "<div style=\"font-size:70px; text-align:center; background-color:#999;height:160px;line-height:160px;\">\r\n     安糖尿病关怀应用\r\n    </div>\r\n    <div style=\"font-size:60px; text-align:center;\">\r\n    <table>\r\n    <tr>\r\n    <td>序号</td>\r\n    <td>应用名称</td>\r\n    <td>备注</td>\r\n    </tr>\r\n     <tr>\r\n    <td>1</td>\r\n    <td><a  href=\"itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/tomtomasgreen/resTest/master/manifest_online.plist\">点击安装</a></td>\r\n    <td>IOS</td>\r\n    </tr>\r\n    <table>\r\n    </div>",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
